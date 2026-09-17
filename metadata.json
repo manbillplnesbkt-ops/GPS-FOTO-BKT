@@ -1,0 +1,6 @@
+{
+  "name": "FotoGPS Reader",
+  "description": "Baca Koordinat Foto • EXIF • Export Excel. Ekstrak koordinat GPS dan metadata EXIF dari banyak foto secara 100% lokal di browser.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
